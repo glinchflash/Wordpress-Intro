@@ -70,7 +70,7 @@ We are only looking at the user side of Wordpress, so nothing from the developer
 - -[x] At least 1 hack block!
     - -[x]  step 12: this block should be styled not by wordpress, but by your own injected CSS
     - -[x] Normally we need to get a premium account to add custom css, but there are sneaky ways around it.
-- A contact form
+- -[x] A contact form
 - -[x] A font chosen by you
 - -[x] A README on your repository linking to your website
 
