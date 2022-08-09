@@ -59,7 +59,7 @@ We are only looking at the user side of Wordpress, so nothing from the developer
 15. Last step, add a contact form anywhere on your pages.
 16. Done! Go have a look at the nice to have features, or just have some fun with Wordpress!
 
-### Must-have features
+### Must-have features progress
 
 - At least 2 pages
     - Both have to have a custom background color, not the original one! (it can be the same color on both pages)
@@ -71,8 +71,8 @@ We are only looking at the user side of Wordpress, so nothing from the developer
     - step 12: this block should be styled not by wordpress, but by your own injected CSS
     - Normally we need to get a premium account to add custom css, but there are sneaky ways around it.
 - A contact form
-- A font chosen by you
-- A README on your repository linking to your website
+- -[x] A font chosen by you
+- -[x] A README on your repository linking to your website
 
 
 ### Nice-to-have features
