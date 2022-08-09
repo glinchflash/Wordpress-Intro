@@ -26,13 +26,13 @@ We are only looking at the user side of Wordpress, so nothing from the developer
     - Again, you don't need to pay. Scroll to the bottom of the page for your free option.
     - While choosing the plan, you also do not need to pay.
 9. -[x] Now make a repository, add a README and put the link to your website in there.
-9. Let's have a look at our pages, click on the "Pages" tab in the menu
+10. -[x] Let's have a look at our pages, click on the "Pages" tab in the menu
     - You now get an overview of your Published, Drafted, Scheduled and Trashed pages.
     - Remove all unwanted pages, only regular pages can be trashed, so make the ones you want to trash all regular pages.
     - Add at least one page, you can choose a theme again or use a blank page!
     - This takes you to the page editor of Wordpress
     - Save this draft for now
-10. A couple things to know about this edit view:
+11. -[x] A couple things to know about this edit view:
     - If you want to go back to the home view, the top right wordpress logo is the place to go. Click "view pages" and you're back where you were.
     - You can click on any element in the page and edit it directly
     - The plus button in the toolbar opens up the block inserter, this is to add new elements to your page.
@@ -40,33 +40,33 @@ We are only looking at the user side of Wordpress, so nothing from the developer
     - To the right of the toolbar, you can open up the settings. These show you the settings of the page you're on or the block you select.
     - Next to the settings you can change the fonts and global styles
     - The button with the 3 dots is the option button. Right now you can see we are in the visual editor, but if you want to write code you can also open the code editor.
-11. Let's add some things! Open up the block inserter
+12. -[x] Let's add some things! Open up the block inserter
     - You can see a lot of categories, each containing elements you can add to your page
     - From each category, pick at least 1 of the blocks to add to this page, or any other page you make. (Except for the earn category)
     - If you can't find one in the category that does not require a premium account, skip the category.
     - Make sure to customise every block, you can use dummy / fake text but don't leave anything empty that shouldn't be.
-12. Let's get hacky! Open up the code editor
+13. Let's get hacky! Open up the code editor
     - In the code, add a div and put some text in it at the top.
     - Above that, add a style tag and customise the div to have a background color.
     - Wordpress doesn't like you doing that, so some wonky stuff might happen
     - There is a way to overcome this, the end result will be your div with a background color
-13. Let's customise our theme! Go back to the home view of your website and click on "appearance" in the left toolbar
+14. Let's customise our theme! Go back to the home view of your website and click on "appearance" in the left toolbar
     - Now we can customise our selected theme or change it! Go ahead and click on "customise"
     - In here we can change stuff like colors, menus and so on.
     - Adding additional css is a premium feature, however in the previous step we have learned to overcome this with our developer knowledge! Nice try Wordpress!
     - Wordpress does their best though to make our life a living hell when we try to change something through css, so not everything will work.
-14. Remember how to customise your fonts? Go ahead and pick one to your liking, don't leave it at the default font!
-15. Last step, add a contact form anywhere on your pages.
-16. Done! Go have a look at the nice to have features, or just have some fun with Wordpress!
+15. Remember how to customise your fonts? Go ahead and pick one to your liking, don't leave it at the default font!
+16. -[x] Last step, add a contact form anywhere on your pages.
+17. Done! Go have a look at the nice to have features, or just have some fun with Wordpress!
 
 ### Must-have features progress
 
 - At least 2 pages
-    - Both have to have a custom background color, not the original one! (it can be the same color on both pages)
-    - Change the footer credit, notice how we cannot remove it? Optionally try hiding it anyway!
+    - -[x] Both have to have a custom background color, not the original one! (it can be the same color on both pages)
+    - -[x] Change the footer credit, notice how we cannot remove it? Optionally try hiding it anyway!
 - At least 1 block of every category
-    - They can be spread out across all of your pages
-    - If you can't find one in the category that does not require a premium account, skip the category.
+    - -[x] They can be spread out across all of your pages
+    - -[x] If you can't find one in the category that does not require a premium account, skip the category.
 - At least 1 hack block!
     - step 12: this block should be styled not by wordpress, but by your own injected CSS
     - Normally we need to get a premium account to add custom css, but there are sneaky ways around it.
