@@ -45,31 +45,31 @@ We are only looking at the user side of Wordpress, so nothing from the developer
     - From each category, pick at least 1 of the blocks to add to this page, or any other page you make. (Except for the earn category)
     - If you can't find one in the category that does not require a premium account, skip the category.
     - Make sure to customise every block, you can use dummy / fake text but don't leave anything empty that shouldn't be.
-13. Let's get hacky! Open up the code editor
+13. -[x] Let's get hacky! Open up the code editor
     - In the code, add a div and put some text in it at the top.
     - Above that, add a style tag and customise the div to have a background color.
     - Wordpress doesn't like you doing that, so some wonky stuff might happen
     - There is a way to overcome this, the end result will be your div with a background color
-14. Let's customise our theme! Go back to the home view of your website and click on "appearance" in the left toolbar
+14. -[x] Let's customise our theme! Go back to the home view of your website and click on "appearance" in the left toolbar
     - Now we can customise our selected theme or change it! Go ahead and click on "customise"
     - In here we can change stuff like colors, menus and so on.
     - Adding additional css is a premium feature, however in the previous step we have learned to overcome this with our developer knowledge! Nice try Wordpress!
     - Wordpress does their best though to make our life a living hell when we try to change something through css, so not everything will work.
-15. Remember how to customise your fonts? Go ahead and pick one to your liking, don't leave it at the default font!
+15. -[x]  Remember how to customise your fonts? Go ahead and pick one to your liking, don't leave it at the default font!
 16. -[x] Last step, add a contact form anywhere on your pages.
 17. Done! Go have a look at the nice to have features, or just have some fun with Wordpress!
 
 ### Must-have features progress
 
-- At least 2 pages
+- -[x] At least 2 pages
     - -[x] Both have to have a custom background color, not the original one! (it can be the same color on both pages)
     - -[x] Change the footer credit, notice how we cannot remove it? Optionally try hiding it anyway!
-- At least 1 block of every category
+- -[x] At least 1 block of every category
     - -[x] They can be spread out across all of your pages
     - -[x] If you can't find one in the category that does not require a premium account, skip the category.
-- At least 1 hack block!
-    - step 12: this block should be styled not by wordpress, but by your own injected CSS
-    - Normally we need to get a premium account to add custom css, but there are sneaky ways around it.
+- -[x] At least 1 hack block!
+    - -[x]  step 12: this block should be styled not by wordpress, but by your own injected CSS
+    - -[x] Normally we need to get a premium account to add custom css, but there are sneaky ways around it.
 - A contact form
 - -[x] A font chosen by you
 - -[x] A README on your repository linking to your website
@@ -77,10 +77,25 @@ We are only looking at the user side of Wordpress, so nothing from the developer
 
 ### Nice-to-have features
 
-- A finished product for a friend
-- A Theme you made from scratch
+- -[x]  A finished product for a friend
+- -[x]  A Theme you made from scratch
 - Can you add javascript to your project? I tried but of course they wrapped my script in a `<p>` tag 😅
-- Pimp your README!
+- -[x] Pimp your README!
     - What did you learn? What were the challenges?
     - What do you think about Wordpress?
     - Did you manage to add your own CSS or JS? How did you do it?
+
+
+
+### what did I learn
+- basic wordpress
+- that I'm probably not gonna use wordpress again
+
+### what I thought of Wordpress
+- Wordpress is super messy and annoying to work with in my opinion
+- doesn't really speed up the process al ot
+- drags out alot of fun out of making a site
+
+
+### Did you manage to add own CSS or JS?
+- Nope (besides the hacky block with a custom html block with inline styling)
